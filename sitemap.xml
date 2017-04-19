@@ -4,48 +4,14 @@
     
         
     <url>
-     <loc>None/user-documentation/intro-to-claw/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/user-documentation/intro-to-claw/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/user-documentation/CLAWfor1x/</loc>
-     <lastmod>2017-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/mvp/mvp_doc/</loc>
-     <lastmod>2017-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/technical-documentation/docs-build/</loc>
-     <lastmod>2017-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/technical-documentation/drupal-project/</loc>
-     <lastmod>2017-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/technical-documentation/versioning/</loc>
-     <lastmod>2017-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/alpaca/alpaca-technical-stack/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/user-documentation/CLAWfor1x/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -54,19 +20,53 @@
     
         
     <url>
-     <loc>None/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/mvp/mvp_doc/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/alpaca/README/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/technical-documentation/docs-build/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None</loc>
+     <loc>/technical-documentation/drupal-project/</loc>
+     <lastmod>2017-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/technical-documentation/versioning/</loc>
+     <lastmod>2017-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/alpaca/alpaca-technical-stack/</loc>
+     <lastmod>2017-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/</loc>
+     <lastmod>2017-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/alpaca/README/</loc>
+     <lastmod>2017-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc></loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -76,8 +76,8 @@
     
         
     <url>
-     <loc>None/install/README/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/install/README/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -86,20 +86,20 @@
     
         
     <url>
-     <loc>None/contributing/CONTRIBUTING/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/contributing/CONTRIBUTING/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/contributing/committers/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/contributing/committers/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/contributing/hacking-on-islandora/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/contributing/hacking-on-islandora/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -108,20 +108,20 @@
     
         
     <url>
-     <loc>None/migration/migration/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/migration/migration/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/migration/fedora-namespace-predicates/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/migration/fedora-namespace-predicates/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/migration/islandora-namespace-predicates/</loc>
-     <lastmod>2017-04-18</lastmod>
+     <loc>/migration/islandora-namespace-predicates/</loc>
+     <lastmod>2017-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
